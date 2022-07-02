@@ -10,11 +10,9 @@ Here is a list of all software and install links i use on MacOS
 
 I use it as my primary Text Editor https://code.visualstudio.com/download 
 2. ATOM 
-
 Sometimes i want to use anoter editor, so i use ATOM https://atom.io/ 
 3. HomeBrew
-Y
-ou need to install brew to install other packages https://brew.sh/index_fr
+You need to install brew to install other packages https://brew.sh/index_fr
 4. Terminal - iTerm2
 
 Just because we need antother terminal to work :-) 
