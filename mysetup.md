@@ -32,14 +32,20 @@ brew install git
 ## Installer la stack MERN (MongoDB, Express JS, React JS and Node JS)
 1. NODE JS
 brew install node
-3. GRUNT  
+--------------
+
+2. GRUNT  
 npm install -g grunt-cli
 
 3. EXPRESS
+
+Il faut également installer quelques dépendances à NodeJS
+----------
+npm install express nodemon  express-session sync-request body-parser cors mongoose
 4. MONGOOSE
+
 5. REACT
 
-brew install node
 
 
 ## Optimise Workflow and productivity while Coding
