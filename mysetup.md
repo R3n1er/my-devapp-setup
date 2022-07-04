@@ -25,7 +25,18 @@ https://ohmyz.sh/#install
 Open a terminal and execute this line of code : 
 xcode-select --install
 7. GIT
+
 "THE" ultimate versioning tool
+brew install git
+
+## Installer la stack MERN (MongoDB, Express JS, React JS and Node JS)
+1. NODE JS
+2. EXPRESS
+3. MONGOOSE
+4. REACT
+
+brew install node
+
 
 ## Optimise Workflow and productivity while Coding
 
