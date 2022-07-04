@@ -31,9 +31,13 @@ brew install git
 
 ## Installer la stack MERN (MongoDB, Express JS, React JS and Node JS)
 1. NODE JS
-2. EXPRESS
-3. MONGOOSE
-4. REACT
+brew install node
+3. GRUNT  
+npm install -g grunt-cli
+
+3. EXPRESS
+4. MONGOOSE
+5. REACT
 
 brew install node
 
