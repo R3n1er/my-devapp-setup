@@ -25,6 +25,10 @@ https://ohmyz.sh/#install
 Open a terminal and execute this line of code : 
 xcode-select --install
 7. GIT
+8. 8. Fig.io
+
+https://fig.io/ 
+10. 
 
 "THE" ultimate versioning tool
 brew install git
