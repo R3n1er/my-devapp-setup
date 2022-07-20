@@ -25,13 +25,20 @@ https://ohmyz.sh/#install
 Open a terminal and execute this line of code : 
 xcode-select --install
 7. GIT
-8. 8. Fig.io
-
-https://fig.io/ 
-10. 
 
 "THE" ultimate versioning tool
+
 brew install git
+9. Fig.io
+
+https://fig.io/ 
+9. Whatchman
+
+brew install watchman
+
+11. 
+
+
 
 ## Installer la stack MERN (MongoDB, Express JS, React JS and Node JS)
 1. NODE JS
